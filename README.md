@@ -2,7 +2,4 @@
 
 CompSci student at Ohio University
 
-# Github Stats
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steelx86&theme=noctis_minimus" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Steelx86&include_orgs=true&count_private=true&include_all_commits=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
